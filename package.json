@@ -1,6 +1,6 @@
 {
   "name": "SSO",
-  "version": "1",
+  "version": "1.0.0",
   "dependencies": {
     "express": "^4.16.2",
     "socket.io": "^2.0.4"
